@@ -1,0 +1,33 @@
+# faqs.txt
+# Add your FAQ content here. Separate each entry with a blank line.
+# Format: plain text paragraphs. Each paragraph becomes one retrievable chunk.
+
+What is your return policy?
+We accept returns within 30 days of purchase. Items must be unused and in original packaging. To start a return, contact support@example.com with your order number. Refunds are processed within 5–7 business days.
+
+How do I reset my password?
+Go to the login page and click "Forgot password". Enter your registered email address and we will send you a reset link. The link expires after 24 hours. If you don't receive the email, check your spam folder or contact support.
+
+What payment methods do you accept?
+We accept Visa, Mastercard, American Express, PayPal, and bank transfers. All transactions are secured with 256-bit SSL encryption. We do not store full card details on our servers.
+
+How long does shipping take?
+Standard shipping takes 5–7 business days. Express shipping (2–3 business days) is available at checkout for an additional fee. International orders may take 10–20 business days depending on customs clearance.
+
+How do I contact customer support?
+You can reach our support team via email at support@example.com or by phone at +1-800-555-0100, Monday to Friday, 9am–6pm EST. Average email response time is under 4 hours during business hours.
+
+Can I change or cancel my order?
+Orders can be modified or cancelled within 1 hour of placement. After that, the order enters processing and cannot be changed. Contact support immediately if you need to make changes.
+
+Do you offer discounts for bulk orders?
+Yes, we offer tiered discounts for orders over 50 units. Contact sales@example.com for a custom quote. Nonprofits and educational institutions may also qualify for special pricing.
+
+Is my personal data safe?
+We are GDPR and CCPA compliant. Your personal data is never sold to third parties. You can request a full export or deletion of your data at any time by emailing privacy@example.com.
+
+How do I track my order?
+Once your order ships, you will receive a tracking number by email. You can use this number on our website's order tracker or directly on the carrier's site. Tracking updates may take up to 24 hours to appear.
+
+What happens if my item arrives damaged?
+If your item arrives damaged, take photos and contact support@example.com within 48 hours of delivery. We will arrange a free replacement or full refund, whichever you prefer.
